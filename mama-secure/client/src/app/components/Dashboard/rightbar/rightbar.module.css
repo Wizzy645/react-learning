@@ -1,0 +1,16 @@
+.container{
+
+}
+.bgContainer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    height: 50%;
+}
+.item{
+    position: relative;
+}
+.bg{
+    
+}
